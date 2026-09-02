@@ -1,0 +1,81 @@
+Order_ID,Order_Date,Customer_ID,Customer_Type,Region,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method,Order_Status
+NX1001,2025-01-03,C101,New,North,Electronics,Wireless Earbuds,2,2499,0.05,4748.10,759.70,UPI,Delivered
+NX1002,2025-01-05,C102,Returning,West,Home,Ceramic Coffee Mug Set,3,799,0.00,2397.00,647.19,Card,Delivered
+NX1003,2025-01-08,C103,New,South,Fashion,Cotton Oversized T-Shirt,2,899,0.10,1618.20,485.46,UPI,Delivered
+NX1004,2025-01-12,C104,Returning,East,Beauty,Skin Care Gift Box,1,1899,0.05,1804.05,577.30,Wallet,Delivered
+NX1005,2025-01-16,C105,New,North,Sports,Yoga Mat Pro,1,1499,0.00,1499.00,524.65,COD,Delivered
+NX1006,2025-01-19,C106,Returning,West,Electronics,Smart Watch Lite,1,3499,0.10,3149.10,566.84,Card,Delivered
+NX1007,2025-01-22,C107,New,South,Home,LED Desk Lamp,2,1299,0.05,2468.10,740.43,UPI,Delivered
+NX1008,2025-01-26,C108,Returning,North,Fashion,Everyday Sneakers,1,2299,0.15,1954.15,488.54,Card,Returned
+NX1009,2025-01-29,C109,New,East,Beauty,Vitamin C Serum,2,699,0.00,1398.00,559.20,UPI,Delivered
+NX1010,2025-02-02,C110,Returning,West,Electronics,Portable Bluetooth Speaker,1,2199,0.05,2089.05,605.82,Wallet,Delivered
+NX1011,2025-02-04,C111,New,North,Home,Storage Organizer Set,4,599,0.00,2396.00,718.80,UPI,Delivered
+NX1012,2025-02-07,C112,Returning,South,Sports,Resistance Band Kit,2,899,0.10,1618.20,566.37,Card,Delivered
+NX1013,2025-02-11,C113,New,East,Fashion,Denim Jacket,1,2499,0.10,2249.10,517.29,COD,Delivered
+NX1014,2025-02-14,C114,Returning,West,Beauty,Hair Care Kit,2,1199,0.05,2278.10,774.55,UPI,Delivered
+NX1015,2025-02-18,C115,New,North,Electronics,Mechanical Keyboard,1,2999,0.15,2549.15,637.29,Card,Cancelled
+NX1016,2025-02-21,C116,Returning,South,Home,Non-Stick Cookware Set,1,3299,0.05,3134.05,783.51,Card,Delivered
+NX1017,2025-02-24,C117,New,East,Sports,Adjustable Dumbbells,1,2799,0.10,2519.10,705.35,UPI,Delivered
+NX1018,2025-02-27,C118,Returning,West,Fashion,Casual Backpack,2,1599,0.00,3198.00,895.44,Wallet,Delivered
+NX1019,2025-03-02,C119,New,North,Beauty,Perfume Set,1,2199,0.05,2089.05,689.39,Card,Delivered
+NX1020,2025-03-05,C120,Returning,South,Electronics,USB-C Power Bank,3,1299,0.10,3507.30,947.00,UPI,Delivered
+NX1021,2025-03-08,C121,New,East,Home,Bamboo Bedsheet Set,1,1999,0.00,1999.00,619.69,COD,Delivered
+NX1022,2025-03-11,C122,Returning,North,Sports,Running Shoes,1,2899,0.15,2464.15,640.68,Card,Delivered
+NX1023,2025-03-15,C123,New,West,Fashion,Linen Shirt,2,1299,0.05,2468.10,691.07,UPI,Delivered
+NX1024,2025-03-18,C124,Returning,South,Beauty,Face Moisturizer,3,749,0.00,2247.00,741.51,Wallet,Delivered
+NX1025,2025-03-21,C125,New,East,Electronics,Wireless Keyboard Mouse Combo,1,1799,0.10,1619.10,437.16,Card,Delivered
+NX1026,2025-03-24,C126,Returning,North,Home,Electric Kettle,1,1799,0.05,1709.05,512.72,UPI,Delivered
+NX1027,2025-03-27,C127,New,West,Sports,Smart Fitness Band,1,2499,0.10,2249.10,629.75,COD,Delivered
+NX1028,2025-03-30,C128,Returning,South,Fashion,Minimalist Tote Bag,2,999,0.00,1998.00,639.36,Card,Returned
+NX1029,2025-04-02,C129,New,East,Beauty,Makeup Brush Set,1,899,0.05,854.05,273.30,UPI,Delivered
+NX1030,2025-04-05,C130,Returning,West,Electronics,Noise Cancelling Headphones,1,4999,0.15,4249.15,849.83,Card,Delivered
+NX1031,2025-04-08,C131,New,North,Home,Air Fryer,1,4499,0.10,4049.10,809.82,UPI,Delivered
+NX1032,2025-04-11,C132,Returning,South,Sports,Home Workout Bench,1,5999,0.05,5699.05,1025.83,Card,Delivered
+NX1033,2025-04-14,C133,New,East,Fashion,Formal Trousers,2,1399,0.10,2518.20,629.55,Wallet,Delivered
+NX1034,2025-04-17,C134,Returning,North,Beauty,Hair Straightener,1,2499,0.00,2499.00,674.73,UPI,Delivered
+NX1035,2025-04-20,C135,New,West,Electronics,Tablet Stand,2,999,0.05,1898.10,531.47,COD,Delivered
+NX1036,2025-04-23,C136,Returning,South,Home,Wall Decor Set,3,699,0.10,1887.30,603.94,Card,Delivered
+NX1037,2025-04-26,C137,New,East,Sports,Skipping Rope,3,499,0.00,1497.00,508.98,UPI,Delivered
+NX1038,2025-04-29,C138,Returning,North,Fashion,Everyday Sneakers,1,2299,0.05,2184.05,546.01,Card,Delivered
+NX1039,2025-05-02,C139,New,West,Beauty,Body Care Set,2,1299,0.10,2338.20,701.46,Wallet,Delivered
+NX1040,2025-05-05,C140,Returning,South,Electronics,Smart Watch Lite,1,3499,0.05,3324.05,664.81,UPI,Delivered
+NX1041,2025-05-08,C141,New,North,Home,LED Desk Lamp,2,1299,0.15,2208.30,574.16,COD,Delivered
+NX1042,2025-05-11,C142,Returning,East,Sports,Adjustable Dumbbells,1,2799,0.05,2659.05,744.53,Card,Delivered
+NX1043,2025-05-14,C143,New,West,Fashion,Cotton Oversized T-Shirt,3,899,0.10,2427.30,728.19,UPI,Delivered
+NX1044,2025-05-17,C144,Returning,South,Beauty,Vitamin C Serum,2,699,0.00,1398.00,559.20,Wallet,Delivered
+NX1045,2025-05-20,C145,New,East,Electronics,Wireless Earbuds,1,2499,0.15,2124.15,531.04,Card,Delivered
+NX1046,2025-05-23,C146,Returning,North,Home,Non-Stick Cookware Set,1,3299,0.10,2969.10,712.58,UPI,Delivered
+NX1047,2025-05-26,C147,New,West,Sports,Yoga Mat Pro,2,1499,0.05,2848.10,996.84,COD,Delivered
+NX1048,2025-05-29,C148,Returning,South,Fashion,Denim Jacket,1,2499,0.20,1999.20,459.82,Card,Returned
+NX1049,2025-06-01,C149,New,North,Beauty,Perfume Set,1,2199,0.10,1979.10,653.10,UPI,Delivered
+NX1050,2025-06-04,C150,Returning,East,Electronics,Portable Bluetooth Speaker,2,2199,0.05,4178.10,1211.65,Card,Delivered
+NX1051,2025-06-07,C151,New,South,Home,Electric Kettle,2,1799,0.00,3598.00,1079.40,Wallet,Delivered
+NX1052,2025-06-10,C152,Returning,West,Sports,Running Shoes,1,2899,0.10,2609.10,678.37,UPI,Delivered
+NX1053,2025-06-13,C153,New,East,Fashion,Linen Shirt,2,1299,0.15,2208.30,574.16,COD,Delivered
+NX1054,2025-06-16,C154,Returning,North,Beauty,Skin Care Gift Box,1,1899,0.00,1899.00,607.68,Card,Delivered
+NX1055,2025-06-19,C155,New,South,Electronics,Mechanical Keyboard,1,2999,0.05,2849.05,712.26,UPI,Delivered
+NX1056,2025-06-22,C156,Returning,West,Home,Air Fryer,1,4499,0.15,3824.15,764.83,Card,Delivered
+NX1057,2025-06-25,C157,New,North,Sports,Resistance Band Kit,2,899,0.00,1798.00,629.30,Wallet,Delivered
+NX1058,2025-06-28,C158,Returning,East,Fashion,Casual Backpack,1,1599,0.10,1439.10,402.95,UPI,Delivered
+NX1059,2025-07-01,C159,New,South,Beauty,Hair Care Kit,2,1199,0.05,2278.10,774.55,Card,Delivered
+NX1060,2025-07-04,C160,Returning,West,Electronics,USB-C Power Bank,2,1299,0.15,2208.30,596.24,COD,Cancelled
+NX1061,2025-07-07,C161,New,North,Home,Bamboo Bedsheet Set,1,1999,0.05,1899.05,588.71,UPI,Delivered
+NX1062,2025-07-10,C162,Returning,South,Sports,Smart Fitness Band,1,2499,0.00,2499.00,699.72,Card,Delivered
+NX1063,2025-07-13,C163,New,East,Fashion,Formal Trousers,2,1399,0.05,2658.10,664.53,Wallet,Delivered
+NX1064,2025-07-16,C164,Returning,North,Beauty,Face Moisturizer,3,749,0.10,2022.30,667.36,UPI,Delivered
+NX1065,2025-07-19,C165,New,West,Electronics,Wireless Keyboard Mouse Combo,1,1799,0.00,1799.00,485.73,Card,Delivered
+NX1066,2025-07-22,C166,Returning,South,Home,Storage Organizer Set,3,599,0.05,1707.15,512.15,COD,Delivered
+NX1067,2025-07-25,C167,New,East,Sports,Home Workout Bench,1,5999,0.10,5399.10,971.84,UPI,Delivered
+NX1068,2025-07-28,C168,Returning,North,Fashion,Minimalist Tote Bag,2,999,0.15,1698.30,543.46,Card,Delivered
+NX1069,2025-07-31,C169,New,West,Beauty,Makeup Brush Set,2,899,0.05,1708.10,546.59,Wallet,Delivered
+NX1070,2025-08-03,C170,Returning,South,Electronics,Noise Cancelling Headphones,1,4999,0.10,4499.10,899.82,UPI,Delivered
+NX1071,2025-08-06,C171,New,North,Home,Wall Decor Set,2,699,0.00,1398.00,447.36,COD,Delivered
+NX1072,2025-08-09,C172,Returning,East,Sports,Skipping Rope,4,499,0.05,1896.20,644.71,Card,Delivered
+NX1073,2025-08-12,C173,New,West,Fashion,Cotton Oversized T-Shirt,2,899,0.20,1438.40,431.52,UPI,Delivered
+NX1074,2025-08-15,C174,Returning,South,Beauty,Body Care Set,1,1299,0.10,1169.10,350.73,Wallet,Returned
+NX1075,2025-08-18,C175,New,North,Electronics,Tablet Stand,3,999,0.05,2847.15,797.20,Card,Delivered
+NX1076,2025-08-21,C176,Returning,East,Home,LED Desk Lamp,1,1299,0.10,1169.10,350.73,UPI,Delivered
+NX1077,2025-08-24,C177,New,West,Sports,Adjustable Dumbbells,1,2799,0.15,2379.15,666.16,COD,Delivered
+NX1078,2025-08-27,C178,Returning,South,Fashion,Denim Jacket,1,2499,0.05,2374.05,546.03,Card,Delivered
+NX1079,2025-08-30,C179,New,East,Beauty,Vitamin C Serum,3,699,0.05,1992.15,796.86,UPI,Delivered
+NX1080,2025-09-02,C180,Returning,North,Electronics,Smart Watch Lite,1,3499,0.20,2799.20,503.86,Wallet,Delivered
